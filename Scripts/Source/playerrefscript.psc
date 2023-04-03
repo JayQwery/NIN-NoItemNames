@@ -1,0 +1,1 @@
+Scriptname playerrefscript extends ReferenceAlias  
